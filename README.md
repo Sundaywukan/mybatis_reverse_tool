@@ -1,0 +1,2 @@
+# mybatis_reverse_tool
+根据mapper文件生成sql文件
